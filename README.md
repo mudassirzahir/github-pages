@@ -1,6 +1,6 @@
 # My first GitHub Pages Site
 
-Now I did actually followed a tutorial and used GitHub Pages almost 2 years ago but I didn't knew what I was doing
+Actually, I followed a tutorial and used GitHub Pages almost 2 years ago, but I didn't know what I was doing.
 
 ## Live Demo
 
